@@ -1,0 +1,29 @@
+# Build output
+/out/
+/build/
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio files
+.vscode/
+*.vcxproj*
+*.sln
+*.user
+*.ipch
+
+# macOS / system files
+.DS_Store
+Thumbs.db
+
+# Other temporary files
+*.log
+
+# visual studio files
+.vs/
